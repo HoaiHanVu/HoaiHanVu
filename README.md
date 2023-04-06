@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @HoaiHanVu, I'm a biologist, geneticnist (a bit), but now I work as a Data Scientist. 
-- 👀 I’m interested in Data Science and Machine Learning, somewhere in my mind always urge me deep dive into the field of bioinfomatics.
-- 🌱 I’m currently learning Data Science Master program in HCM University of Sciences.
+- 👋 Hello there, I'm @HoaiHanVu. While I have a background in biology, I am currently working as a Data Scientist.
+- 👀 My passion lies in the fields of Data Science and Machine Learning, and I often find myself drawn to the world of bioinformatics.
+- 🌱 Currently, I am pursuing a Master's program in Data Science at HCM University of Sciences, and constantly striving to learn and grow in my field.
 
 
-I'm best reached via email (vutranhoaihan@gmail.com). I'm always open to interesting conversations and collaboration.
+I'm best reached via email (vutranhoaihan@gmail.com). I welcome engaging conversations and opportunities for collaboration.
 
 <!---
 HoaiHanVu/HoaiHanVu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
